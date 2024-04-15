@@ -2,6 +2,8 @@
 
 This repository is designed to document the project results and partial metadata pertaining to the reseach: Segmentation-based ID preserving iris synthesis using generative adversarial networks.
 
+![screenshot](GA_SegNet.png)
+
 ## Overview
 
 This repository contains:
