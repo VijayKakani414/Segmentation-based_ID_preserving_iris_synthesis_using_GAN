@@ -1,6 +1,6 @@
 # Segmentation-based ID preserving iris synthesis using GANs Repository
 
-Welcome to the Segmentation-based ID preserving iris synthesis using GANs Repository! This repository is designed to document the manuscript results and partial metadata pertaining to the reseach: Segmentation-based ID preserving iris synthesis using generative adversarial networks.
+This repository is designed to document the project results and partial metadata pertaining to the reseach: Segmentation-based ID preserving iris synthesis using generative adversarial networks.
 
 ## Overview
 
