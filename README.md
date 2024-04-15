@@ -13,9 +13,9 @@ This repository contains:
 ## Repository Structure
 
 The repository is structured as follows:
-- Segmentation-based_ID_preserving_iris_synthesis_using_GAN/
-  - IrisGAN_src/
-  - SegNet_src/
+- Segmentation-based_ID_preserving_iris_synthesis_using_GAN
+  - IrisGAN_src
+  - SegNet_src
   - Manuscript.pdf
   - README.md
 
