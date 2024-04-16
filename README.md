@@ -2,7 +2,7 @@
 
 This repository contains all my research project details pertaining to the Segmentation-based ID preserving iris synthesis using generative adversarial networks.
 
-![screenshot](GA_SegNet.png)
+<img width="1363" alt="GA_SegNet" src="https://github.com/VijayKakani414/Segmentation-based_ID_preserving_iris_synthesis_using_GAN/assets/25151205/9e41dfd2-e3ec-4c83-9cd8-9e6ab24850bd">
 
 ## Overview
 
